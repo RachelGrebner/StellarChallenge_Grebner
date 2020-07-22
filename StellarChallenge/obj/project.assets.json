@@ -6063,11 +6063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\StellarChallenge\\StellarChallenge\\StellarChallenge.csproj",
+      "projectUniqueName": "D:\\git\\StellarChallenge_Grebner\\StellarChallenge\\StellarChallenge.csproj",
       "projectName": "StellarChallenge",
-      "projectPath": "D:\\git\\StellarChallenge\\StellarChallenge\\StellarChallenge.csproj",
+      "projectPath": "D:\\git\\StellarChallenge_Grebner\\StellarChallenge\\StellarChallenge.csproj",
       "packagesPath": "C:\\Users\\localadmin\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\StellarChallenge\\StellarChallenge\\obj\\",
+      "outputPath": "D:\\git\\StellarChallenge_Grebner\\StellarChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
